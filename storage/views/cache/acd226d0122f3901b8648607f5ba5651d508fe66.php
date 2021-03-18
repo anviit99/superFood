@@ -1,0 +1,1 @@
+<?php echo e('Navigation bar'); ?><?php /**PATH D:\Xamp\htdocs\small\resources\views/layouts/navbar.blade.php ENDPATH**/ ?>

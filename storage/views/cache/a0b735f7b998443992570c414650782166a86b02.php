@@ -1,0 +1,1 @@
+<?php /**PATH D:\Xamp\htdocs\small\resources\views/backend/layouts/navbar.blade.php ENDPATH**/ ?>
